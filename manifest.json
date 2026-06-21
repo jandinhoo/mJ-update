@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
     "version":  "1.1.0",
-    "publishedAtUtc":  "2026-06-21T12:53:53.0189122Z",
-    "releaseNotes":  "Sistema inicial de atualização incremental com verificação SHA-256, backup e rollback.",
+    "publishedAtUtc":  "2026-06-21T13:54:29.4876733Z",
+    "releaseNotes":  "Sistema inicial de atualização incremental com verificação SHA-256, reparo de instalações antigas, backup e rollback.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -13,8 +13,8 @@
                   {
                       "path":  "DecaySDS.exe",
                       "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/DecaySDS.exe",
-                      "size":  7913984,
-                      "sha256":  "05c85ef50b3cd11e77ff86bb2815f27082baca42eb52a9a37bbfc6d529f21266"
+                      "size":  7914496,
+                      "sha256":  "149506673d8533ba4db45042d44bcd489e38261cdec681fd905bf84dc1685bb2"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
