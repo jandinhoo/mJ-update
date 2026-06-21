@@ -1,0 +1,269 @@
+{
+    "schemaVersion":  1,
+    "version":  "1.1.0",
+    "publishedAtUtc":  "2026-06-21T12:53:53.0189122Z",
+    "releaseNotes":  "Sistema inicial de atualização incremental com verificação SHA-256, backup e rollback.",
+    "files":  [
+                  {
+                      "path":  "decay.png",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/decay.png",
+                      "size":  87426,
+                      "sha256":  "aa3e1e67dd518bdc4b76ebb518bd67f816d774f7c349de4b9a250e5ce42f3096"
+                  },
+                  {
+                      "path":  "DecaySDS.exe",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/DecaySDS.exe",
+                      "size":  7913984,
+                      "sha256":  "05c85ef50b3cd11e77ff86bb2815f27082baca42eb52a9a37bbfc6d529f21266"
+                  },
+                  {
+                      "path":  "DecaySDS.exe.config",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/DecaySDS.exe.config",
+                      "size":  2431,
+                      "sha256":  "d7994ee3950d428d2f8667b754be044d8d2abbdf5a3c4b7764928144b082610c"
+                  },
+                  {
+                      "path":  "DecaySDS.Updater.exe",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/DecaySDS.Updater.exe",
+                      "size":  273408,
+                      "sha256":  "9cb031eec707afce21bfc305cc1e7e9069cbf1486a15667ed4bda354cfc62513"
+                  },
+                  {
+                      "path":  "GameData/Cfg/v150.cfg",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v150.cfg",
+                      "size":  880678,
+                      "sha256":  "b94a09def097f0c9d10ffc4c9119b4c4e14aee5b9b45ed7c661e6519b3207b54"
+                  },
+                  {
+                      "path":  "GameData/Cfg/v150.cfgbkp",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v150.cfgbkp",
+                      "size":  881905,
+                      "sha256":  "c47b5e988333838a513b5d3da820e476d888861b6c0cf4d9d2a7d72b46ea3807"
+                  },
+                  {
+                      "path":  "GameData/Cfg/v151.cfg",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v151.cfg",
+                      "size":  1626024,
+                      "sha256":  "bbb32f9417d124a385bbcdbaefe0054bdb75c089c7a6c5fdb091429571ffa4bf"
+                  },
+                  {
+                      "path":  "GameData/Cfg/v151.cfgbkp",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v151.cfgbkp",
+                      "size":  1626024,
+                      "sha256":  "bbb32f9417d124a385bbcdbaefe0054bdb75c089c7a6c5fdb091429571ffa4bf"
+                  },
+                  {
+                      "path":  "GameData/Cfg/v151.lira.overlay.json",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v151.lira.overlay.json",
+                      "size":  56910,
+                      "sha256":  "d05569a97876f7e85c7656f20ce575b76e21eccb75496ee3023b142192297f0a"
+                  },
+                  {
+                      "path":  "ggml.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/ggml.dll",
+                      "size":  694784,
+                      "sha256":  "4ae3c4708b3090d4673d0a297773d409e96db6e40c64c0a53d804c759f07fbed"
+                  },
+                  {
+                      "path":  "Iced.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Iced.dll",
+                      "size":  1894912,
+                      "sha256":  "cc915d1c2e7be60933c5b129842ca3d08d1fe3cda6c6d6ade8824dcdde16191f"
+                  },
+                  {
+                      "path":  "llama.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/llama.dll",
+                      "size":  1380864,
+                      "sha256":  "daa0b60176096aaa2b8874fcc187c7a45eba2a5479aaad68bf8bc65d27105d64"
+                  },
+                  {
+                      "path":  "LLamaSharp.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/LLamaSharp.dll",
+                      "size":  221184,
+                      "sha256":  "d9e90221a791a69bede1d967b025ec33ccdae1df3e4e1bdc33221d6c4bc06161"
+                  },
+                  {
+                      "path":  "llava_shared.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/llava_shared.dll",
+                      "size":  274432,
+                      "sha256":  "c23bea8646cf8210d67c96889604a1a5c2ab77d1eaf3b8a9f9f0cc2320641214"
+                  },
+                  {
+                      "path":  "logo.png",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/logo.png",
+                      "size":  87426,
+                      "sha256":  "aa3e1e67dd518bdc4b76ebb518bd67f816d774f7c349de4b9a250e5ce42f3096"
+                  },
+                  {
+                      "path":  "Microsoft.Bcl.AsyncInterfaces.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Bcl.AsyncInterfaces.dll",
+                      "size":  26904,
+                      "sha256":  "80678203bd0203a6594f4e330b22543c0de5059382bb1c9334b7868b8f31b1bc"
+                  },
+                  {
+                      "path":  "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+                      "size":  64160,
+                      "sha256":  "11564c3c648f3d4fbdce989b50aa4cb4c58d953b7cec5a0fe8c484e7cf5146f3"
+                  },
+                  {
+                      "path":  "Microsoft.Extensions.Logging.Abstractions.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Extensions.Logging.Abstractions.dll",
+                      "size":  67848,
+                      "sha256":  "18e86833745bf0c5c6cf270e349053973f4e27a8410f76522b504f318e4dc944"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.Core.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Web.WebView2.Core.dll",
+                      "size":  650304,
+                      "sha256":  "bb397d03342c76bd308ade82f5b7e8ced00df59459799ffc93a38c3a882b3398"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.WinForms.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Web.WebView2.WinForms.dll",
+                      "size":  39016,
+                      "sha256":  "daae92cdda7e8ba51f86b27ed6efee9d0c7256fc04d0e91c17b2708d75b7a2b1"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.Wpf.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Microsoft.Web.WebView2.Wpf.dll",
+                      "size":  82536,
+                      "sha256":  "26be93604ce76281c2d1f9b443e3ae4d9e5ccfe3a03301cf624bf2985e173295"
+                  },
+                  {
+                      "path":  "Newtonsoft.Json.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Newtonsoft.Json.dll",
+                      "size":  711952,
+                      "sha256":  "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d"
+                  },
+                  {
+                      "path":  "pckdll.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/pckdll.dll",
+                      "size":  394240,
+                      "sha256":  "7a35687dd84d051a2f0e4518c6973d237c1643b5c5f5bc3c0d6fa588d1a6a19e"
+                  },
+                  {
+                      "path":  "runtimes/win-x64/native/WebView2Loader.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/runtimes/win-x64/native/WebView2Loader.dll",
+                      "size":  159344,
+                      "sha256":  "1ac87267e52ccdf5621678697f948030307a650ca56f38f69e74c7cfaf9605c6"
+                  },
+                  {
+                      "path":  "SkillEditor/Mapping/FIELD_MAPPING_REPORT.md",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/SkillEditor/Mapping/FIELD_MAPPING_REPORT.md",
+                      "size":  9760,
+                      "sha256":  "43c9d14574e4bdfe619f45ea1fc5fa584b5abec293b52376ade64ab02f145311"
+                  },
+                  {
+                      "path":  "SkillEditor/Mapping/skill_field_map.json",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/SkillEditor/Mapping/skill_field_map.json",
+                      "size":  664681,
+                      "sha256":  "09558f5be49d50f93960a63770aa24bad0e0177c1baec791efb154c4a22f1a54"
+                  },
+                  {
+                      "path":  "SkillEditor/skill_names.tsv",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/SkillEditor/skill_names.tsv",
+                      "size":  70974,
+                      "sha256":  "080e34b41f91e133791f26c32107355c250ea79857cce2d314c2bcb77e0e5c1b"
+                  },
+                  {
+                      "path":  "System.Buffers.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Buffers.dll",
+                      "size":  20856,
+                      "sha256":  "accccfbe45d9f08ffeed9916e37b33e98c65be012cfff6e7fa7b67210ce1fefb"
+                  },
+                  {
+                      "path":  "System.Data.SQLite.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Data.SQLite.dll",
+                      "size":  450232,
+                      "sha256":  "77dac4e1aa63161d6aff363030a801945d6b8d5b823a6b460b2c2be9ec38d3b7"
+                  },
+                  {
+                      "path":  "System.Linq.Async.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Linq.Async.dll",
+                      "size":  1113232,
+                      "sha256":  "d149fd7049adebe6f3a814ec2bfc2976aeeaf4273957519959acfbf11c611714"
+                  },
+                  {
+                      "path":  "System.Memory.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Memory.dll",
+                      "size":  142240,
+                      "sha256":  "bf3fb84664f4097f1a8a9bc71a51dcf8cf1a905d4080a4d290da1730866e856f"
+                  },
+                  {
+                      "path":  "System.Numerics.Vectors.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Numerics.Vectors.dll",
+                      "size":  115856,
+                      "sha256":  "1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183"
+                  },
+                  {
+                      "path":  "System.Runtime.CompilerServices.Unsafe.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Runtime.CompilerServices.Unsafe.dll",
+                      "size":  18024,
+                      "sha256":  "37768488e8ef45729bc7d9a2677633c6450042975bb96516e186da6cb9cd0dcf"
+                  },
+                  {
+                      "path":  "System.Text.Encodings.Web.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Text.Encodings.Web.dll",
+                      "size":  79024,
+                      "sha256":  "e9c4f5eed186cb129c527c4b8d67d163ea2f2396e9d8b96e30b5e7c12203ce84"
+                  },
+                  {
+                      "path":  "System.Text.Json.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Text.Json.dll",
+                      "size":  643864,
+                      "sha256":  "7eb217f0a0b9fe681de288511cb230708bb1c66e0c4a8553b9c0058632cfd20f"
+                  },
+                  {
+                      "path":  "System.Threading.Tasks.Extensions.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.Threading.Tasks.Extensions.dll",
+                      "size":  25984,
+                      "sha256":  "4f81ffd0dc7204db75afc35ea4291769b07c440592f28894260eea76626a23c6"
+                  },
+                  {
+                      "path":  "System.ValueTuple.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/System.ValueTuple.dll",
+                      "size":  25232,
+                      "sha256":  "e905d102585b22c6df04f219af5cbdbfa7bc165979e9788b62df6dcc165e10f4"
+                  },
+                  {
+                      "path":  "Tools/LuaDecompiler/lua51.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Tools/LuaDecompiler/lua51.dll",
+                      "size":  152813,
+                      "sha256":  "7468ccc4eecbc1beaaeee0477eb126a4807488658734d672b1834eaf348b4971"
+                  },
+                  {
+                      "path":  "Tools/LuaDecompiler/luadec.exe",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Tools/LuaDecompiler/luadec.exe",
+                      "size":  329694,
+                      "sha256":  "6545e48c859d3cf95a799627e0ae947ebf5b74f85769964303f075838d528189"
+                  },
+                  {
+                      "path":  "Tools/LuaDecompiler/Readme.txt",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Tools/LuaDecompiler/Readme.txt",
+                      "size":  1543,
+                      "sha256":  "046a495262ab6a823abc469c095e42f4bd9e636dec7bd7f827dd6e67954b9e39"
+                  },
+                  {
+                      "path":  "WebView2Loader.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/WebView2Loader.dll",
+                      "size":  159344,
+                      "sha256":  "1ac87267e52ccdf5621678697f948030307a650ca56f38f69e74c7cfaf9605c6"
+                  },
+                  {
+                      "path":  "x64/SQLite.Interop.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/x64/SQLite.Interop.dll",
+                      "size":  2005688,
+                      "sha256":  "1111916dc329a13bd627b2cd90c9b2263de9923fd0bb6059c69c52332f360c37"
+                  },
+                  {
+                      "path":  "x86/SQLite.Interop.dll",
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/x86/SQLite.Interop.dll",
+                      "size":  1592504,
+                      "sha256":  "553693b15bda4bbf7788bee09b8bd325ffe4db151686f432194c58e15b9b4f1e"
+                  }
+              ],
+    "delete":  [
+
+               ]
+}
