@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.0",
-    "publishedAtUtc":  "2026-06-21T13:54:29.4876733Z",
-    "releaseNotes":  "Sistema inicial de atualização incremental com verificação SHA-256, reparo de instalações antigas, backup e rollback.",
+    "version":  "1.1.1",
+    "publishedAtUtc":  "2026-06-21T15:11:15.2968686Z",
+    "releaseNotes":  "AIPolicy Editor: importação e exportação integral de policies, preservação binária de todos os campos e separação segura dos textos Talk resolvidos.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -12,9 +12,9 @@
                   },
                   {
                       "path":  "DecaySDS.exe",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/DecaySDS.exe",
-                      "size":  7914496,
-                      "sha256":  "149506673d8533ba4db45042d44bcd489e38261cdec681fd905bf84dc1685bb2"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.1/DecaySDS.exe",
+                      "size":  7923712,
+                      "sha256":  "251ac8e5ea5bb303cc2debc67d9ccf6baf65f3e22c371ecbf40d21d2ad5b380f"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
