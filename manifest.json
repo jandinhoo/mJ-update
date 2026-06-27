@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.3",
-    "publishedAtUtc":  "2026-06-27T16:49:44.6119148Z",
-    "releaseNotes":  "Elements Editor: edicao inline do layout visual dos campos diretamente na tabela aberta, sem janela separada.",
+    "version":  "1.1.4",
+    "publishedAtUtc":  "2026-06-27T17:11:55.0594285Z",
+    "releaseNotes":  "Launcher: verificacao automatica de update ao abrir o DecaySDS.exe, botao Buscar atualizacao em Settings e pacote incremental com todos os arquivos divergentes.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -12,9 +12,9 @@
                   },
                   {
                       "path":  "DecaySDS.exe",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.3/DecaySDS.exe",
-                      "size":  7919616,
-                      "sha256":  "b30720e568b4db01d60fcd79041fecab9672848096ce2e81582b8e45227b834e"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.4/DecaySDS.exe",
+                      "size":  7946752,
+                      "sha256":  "c485db22bb09bf443df94878e98cb723f52f019b1110c74923efe9d0daa75914"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
@@ -36,9 +36,9 @@
                   },
                   {
                       "path":  "GameData/Cfg/v150.cfgbkp",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/GameData/Cfg/v150.cfgbkp",
-                      "size":  881905,
-                      "sha256":  "c47b5e988333838a513b5d3da820e476d888861b6c0cf4d9d2a7d72b46ea3807"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.4/GameData/Cfg/v150.cfgbkp",
+                      "size":  880678,
+                      "sha256":  "b94a09def097f0c9d10ffc4c9119b4c4e14aee5b9b45ed7c661e6519b3207b54"
                   },
                   {
                       "path":  "GameData/Cfg/v151.cfg",
@@ -240,9 +240,9 @@
                   },
                   {
                       "path":  "Tools/LuaDecompiler/Readme.txt",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.0/Tools/LuaDecompiler/Readme.txt",
-                      "size":  1543,
-                      "sha256":  "046a495262ab6a823abc469c095e42f4bd9e636dec7bd7f827dd6e67954b9e39"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.4/Tools/LuaDecompiler/Readme.txt",
+                      "size":  1494,
+                      "sha256":  "9427180d01f5629dad808a8a3f666fed0445770bb878e098af8822e3278aa46e"
                   },
                   {
                       "path":  "WebView2Loader.dll",
