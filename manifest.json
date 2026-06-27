@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.2",
-    "publishedAtUtc":  "2026-06-21T18:30:48.8210307Z",
-    "releaseNotes":  "Updater: busca manual pelo DecaySDS.Updater.exe, botao de buscar atualizacao em Settings e verificacao manual com mensagem quando ja esta atualizado.",
+    "version":  "1.1.3",
+    "publishedAtUtc":  "2026-06-27T16:49:44.6119148Z",
+    "releaseNotes":  "Elements Editor: edicao inline do layout visual dos campos diretamente na tabela aberta, sem janela separada.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -12,9 +12,9 @@
                   },
                   {
                       "path":  "DecaySDS.exe",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.2/DecaySDS.exe",
-                      "size":  7932928,
-                      "sha256":  "34a1ecc72c513dafa796682efbd42733716032a6def85bde47054a5c8fac4bf1"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.3/DecaySDS.exe",
+                      "size":  7919616,
+                      "sha256":  "b30720e568b4db01d60fcd79041fecab9672848096ce2e81582b8e45227b834e"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
