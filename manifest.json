@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.5",
-    "publishedAtUtc":  "2026-07-01T20:29:06.7379726Z",
-    "releaseNotes":  "AIPolicy: editor visual mais limpo, explicacao de policy, validador ampliado e import/export multiplo. Elements: import/export multiplo de itens.",
+    "version":  "1.1.6",
+    "publishedAtUtc":  "2026-07-01T20:43:54.3506374Z",
+    "releaseNotes":  "PCK Editor: extracao/exportacao de varios itens marcados e importacao/adicao em lote preservada.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -12,9 +12,9 @@
                   },
                   {
                       "path":  "DecaySDS.exe",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.5/DecaySDS.exe",
-                      "size":  8040960,
-                      "sha256":  "a404ca6233f3bc670a8d53b5026f57203d8c3f5e596839468fc9a239cec5e381"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.6/DecaySDS.exe",
+                      "size":  8049152,
+                      "sha256":  "09a1778dc78049ae22215a6b637f026db83147585854f3e39e924b2ed83860cf"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
