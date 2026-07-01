@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "1.1.4",
-    "publishedAtUtc":  "2026-06-27T17:11:55.0594285Z",
-    "releaseNotes":  "Launcher: verificacao automatica de update ao abrir o DecaySDS.exe, botao Buscar atualizacao em Settings e pacote incremental com todos os arquivos divergentes.",
+    "version":  "1.1.5",
+    "publishedAtUtc":  "2026-07-01T20:29:06.7379726Z",
+    "releaseNotes":  "AIPolicy: editor visual mais limpo, explicacao de policy, validador ampliado e import/export multiplo. Elements: import/export multiplo de itens.",
     "files":  [
                   {
                       "path":  "decay.png",
@@ -12,9 +12,9 @@
                   },
                   {
                       "path":  "DecaySDS.exe",
-                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.4/DecaySDS.exe",
-                      "size":  7946752,
-                      "sha256":  "c485db22bb09bf443df94878e98cb723f52f019b1110c74923efe9d0daa75914"
+                      "url":  "https://raw.githubusercontent.com/jandinhoo/mJ-update/main/releases/1.1.5/DecaySDS.exe",
+                      "size":  8040960,
+                      "sha256":  "a404ca6233f3bc670a8d53b5026f57203d8c3f5e596839468fc9a239cec5e381"
                   },
                   {
                       "path":  "DecaySDS.exe.config",
